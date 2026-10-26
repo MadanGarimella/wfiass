@@ -153,14 +153,6 @@ The application reports standard statistical measures, including:
 
 ![Forecast Error Analysis](docs/images/forecast-error-analysis.png)
 
-### System Architecture
-
-![Wind Forecast Intelligence Architecture](docs/images/system-architecture.png)
-
-### API Documentation
-
-![FastAPI Swagger Documentation](docs/images/api-documentation.png)
-
 
 **Recommended screenshots:**
 
